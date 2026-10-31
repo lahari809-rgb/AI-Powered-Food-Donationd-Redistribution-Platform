@@ -1,0 +1,4 @@
+com\freshconnect\controller\RequirementController.class
+com\freshconnect\repository\FoodDonationRepository.class
+com\freshconnect\controller\DonationController.class
+com\freshconnect\service\DonationRequestService.class
